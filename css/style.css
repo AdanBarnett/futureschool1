@@ -55,7 +55,7 @@
 @media (min-width: 920px) {
     /* … */
     .h2{
-        font-size: 32px;        
+        font-size: 28px;        
     }
     .h1{
         font-size: 55px;
@@ -88,7 +88,7 @@
     }
     #buttons{
         display: flex;
-        margin-top: 10vh;      
+        margin-top: 5vh;      
         justify-content: center;
         align-items: center;
     }
@@ -98,14 +98,15 @@
         margin: 0 20px;
         color: white;
         text-align: center;
-        font-size: 32px;
+        font-size: 42px;
         
     }
     .button .button-text {
         margin-top: 18px;
     }
     .email{
-        font-size: 25px;
+        font-size: 32px;
+        font-weight:bold;
         font-family:'Courier New', Courier, monospace;
         color:aliceblue;
         text-decoration: none;
